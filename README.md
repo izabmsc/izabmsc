@@ -12,6 +12,7 @@
 <br><br>
 <img src="https://i.pinimg.com/originals/ab/be/28/abbe28a943ed44fcd98452687f7c46c9.gif" height="40" />
 <br><br><br>
+<div align="center"
     
 [![](https://img.shields.io/badge/Linkedin-0a66c2)](http://linkedin.com/in/izabmsc)
 [![](https://img.shields.io/badge/Discord_belllinha-6364ff)]()
