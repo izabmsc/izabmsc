@@ -8,7 +8,7 @@
 
 <br /><br />
 
-<img src="https://pipocamoderna.com.br/storage/2020/02/taylor-swift.jpg" width="230" alt="Taylor Swift" />
+<img src="./assets/pikachu.gif" width="230" alt="Pikachu animado" />
 
 <br /><br />
 
@@ -24,10 +24,6 @@
 <img src="https://img.shields.io/badge/Java-E0C8EF?style=flat-square" alt="Java" />
 <img src="https://img.shields.io/badge/SQL-ECC4DD?style=flat-square" alt="SQL" />
 <img src="https://img.shields.io/badge/Python-E0C8EF?style=flat-square&amp;logo=python&amp;logoColor=59354B" alt="Python" />
-
-<br /><br />
-
-<img src="https://i.pinimg.com/originals/ab/be/28/abbe28a943ed44fcd98452687f7c46c9.gif" height="55" alt="Pikachu running" />
 
 <br /><br />
 
