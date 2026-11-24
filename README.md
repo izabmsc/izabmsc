@@ -4,7 +4,7 @@
 
 <br />
 
-<samp>WEB DEVELOPER &nbsp; / &nbsp; Data Analyst &nbsp; / &nbsp; ADS · DEVOPS</samp>
+<samp>WEB DEVELOPER &nbsp; / &nbsp; DATA ANALYST &nbsp; / &nbsp; ADS · DEVOPS</samp>
 
 <br /><br />
 
