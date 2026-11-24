@@ -27,9 +27,17 @@
 
 <br /><br />
 
-<a href="https://www.linkedin.com/in/izabmsc/">LinkedIn</a> &nbsp; · &nbsp;
-<a href="https://www.instagram.com/izabmsc/">Instagram</a> &nbsp; · &nbsp;
-Discord: <code>belllinha</code>
+<img src="https://i.pinimg.com/originals/ab/be/28/abbe28a943ed44fcd98452687f7c46c9.gif" height="55" alt="Pikachu correndo" />
+
+<br /><br />
+
+<a href="https://www.linkedin.com/in/izabmsc/">
+  <img src="https://img.shields.io/badge/LinkedIn-D13988?style=for-the-badge" alt="LinkedIn da Bella" />
+</a>
+<a href="https://www.instagram.com/izabmsc/">
+  <img src="https://img.shields.io/badge/Instagram-FF66AB?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram da Bella" />
+</a>
+<img src="https://img.shields.io/badge/Discord-belllinha-BB8FCE?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord: belllinha" title="Adicione belllinha no Discord" />
 
 <br /><br />
 
