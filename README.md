@@ -4,7 +4,7 @@
 
 <br />
 
-<samp>WEB DEVELOPER &nbsp; / &nbsp; DATA ANALYST &nbsp; / &nbsp; ADS · DEVOPS</samp>
+<samp>WEB DEVELOPER &nbsp; / &nbsp; DATA ANALYST &nbsp; / &nbsp; ADS · DEVOPS  &nbsp; / &nbsp; CYBERSECURITY · BLUETEAM</samp>
 
 <br /><br />
 
